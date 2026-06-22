@@ -1,10 +1,10 @@
 # Hi!, I'm Victor 
 **Incoming Mechatronics Engineering student at UPC (Peru).** 
 ## Interests
--Robotic
--Programming
--Artificial Intelligence
--Space Technology
+- Robotic
+- Programming
+- Artificial Intelligence
+- Space Technology
 ## Currently Learning
 - CS50x
 - Python
